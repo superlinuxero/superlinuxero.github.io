@@ -3,7 +3,7 @@
     <title>ignasi.com</title>
     <link href="https://superlinuxero.github.io/feed.xml" rel="self" />
     <link href="https://superlinuxero.github.io" />
-    <updated>2025-01-14T16:42:16+01:00</updated>
+    <updated>2025-01-14T18:58:23+01:00</updated>
     <author>
         <name>ignasi.com</name>
     </author>
@@ -25,7 +25,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Esto es una prueba</p>
+                <p>Esto es una <a href="docs/">prueba</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
