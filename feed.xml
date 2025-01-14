@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ignasi.com</title>
+    <link href="https://superlinuxero.github.io/feed.xml" rel="self" />
+    <link href="https://superlinuxero.github.io" />
+    <updated>2025-01-14T16:42:16+01:00</updated>
+    <author>
+        <name>ignasi.com</name>
+    </author>
+    <id>https://superlinuxero.github.io</id>
+
+    <entry>
+        <title>prueba</title>
+        <author>
+            <name>ignasi.com</name>
+        </author>
+        <link href="https://superlinuxero.github.io/posts/prueba/index.html"/>
+        <id>https://superlinuxero.github.io/posts/prueba/index.html</id>
+
+        <updated>2025-01-14T16:39:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Esto es una prueba
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Esto es una prueba</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

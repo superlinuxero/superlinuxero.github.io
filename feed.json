@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ignasi.com",
+    "description": "",
+    "home_page_url": "https://superlinuxero.github.io",
+    "feed_url": "https://superlinuxero.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ignasi.com"
+    },
+    "items": [
+        {
+            "id": "https://superlinuxero.github.io/posts/prueba/index.html",
+            "url": "https://superlinuxero.github.io/posts/prueba/index.html",
+            "title": "prueba",
+            "summary": "Esto es una prueba",
+            "content_html": "<p>Esto es una prueba</p>",
+            "author": {
+                "name": "ignasi.com"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-14T16:39:24+01:00",
+            "date_modified": "2025-01-14T16:42:16+01:00"
+        }
+    ]
+}
