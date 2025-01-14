@@ -3,12 +3,41 @@
     <title>ignasi.com</title>
     <link href="https://superlinuxero.github.io/feed.xml" rel="self" />
     <link href="https://superlinuxero.github.io" />
-    <updated>2025-01-14T19:04:02+01:00</updated>
+    <updated>2025-01-14T20:00:23+01:00</updated>
     <author>
         <name>ignasi.com</name>
     </author>
     <id>https://superlinuxero.github.io</id>
 
+    <entry>
+        <title>prueba 2</title>
+        <author>
+            <name>ignasi.com</name>
+        </author>
+        <link href="https://superlinuxero.github.io/posts/prueba-2/index.html"/>
+        <id>https://superlinuxero.github.io/posts/prueba-2/index.html</id>
+
+        <updated>2025-01-14T20:00:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>hola caracola</p>
+<p> </p>
+<p>hello</p>
+<p> </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hola caracola</p>
+<p> </p>
+<p>hello</p>
+<p> </p>
+
+<p>yello</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>prueba</title>
         <author>
@@ -20,13 +49,31 @@
         <updated>2025-01-14T16:39:24+01:00</updated>
             <summary>
                 <![CDATA[
-                    Esto es una docs
+                    <p class="msg msg--highlight ">Esto es una <a href="/docs/">docs</a></p>
+<p>Hola caracola</p>
+<p> </p>
+<p>Esto es una prueba realizada con Publii. vamos a ver las opciones</p>
+<p> </p>
+<p>1. jhola</p>
+<p>2,.- joplña</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Esto es una <a href="/docs/">docs</a></p>
+                <p class="msg msg--highlight ">Esto es una <a href="/docs/">docs</a></p>
+<p>Hola caracola</p>
 <p> </p>
+<p>Esto es una prueba realizada con Publii. vamos a ver las opciones</p>
+<p> </p>
+<p>1. jhola</p>
+<p>2,.- joplña</p>
+
+<p>Hola</p>
+<p> </p>
+<p>dlkañdkas</p>
+<p> </p>
+<p>sala0pplskaç</p>
             ]]>
         </content>
     </entry>

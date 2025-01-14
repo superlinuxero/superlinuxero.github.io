@@ -10,18 +10,32 @@
     },
     "items": [
         {
+            "id": "https://superlinuxero.github.io/posts/prueba-2/index.html",
+            "url": "https://superlinuxero.github.io/posts/prueba-2/index.html",
+            "title": "prueba 2",
+            "summary": "<p>hola caracola</p>\n<p> </p>\n<p>hello</p>\n<p> </p>\n",
+            "content_html": "<p>hola caracola</p>\n<p> </p>\n<p>hello</p>\n<p> </p>\n\n<p>yello</p>",
+            "author": {
+                "name": "ignasi.com"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-14T20:00:23+01:00",
+            "date_modified": "2025-01-14T20:00:23+01:00"
+        },
+        {
             "id": "https://superlinuxero.github.io/posts/prueba/index.html",
             "url": "https://superlinuxero.github.io/posts/prueba/index.html",
             "title": "prueba",
-            "summary": "Esto es una docs",
-            "content_html": "<p>Esto es una <a href=\"/docs/\">docs</a></p>\n<p> </p>",
+            "summary": "<p class=\"msg msg--highlight \">Esto es una <a href=\"/docs/\">docs</a></p>\n<p>Hola caracola</p>\n<p> </p>\n<p>Esto es una prueba realizada con Publii. vamos a ver las opciones</p>\n<p> </p>\n<p>1. jhola</p>\n<p>2,.- joplña</p>\n",
+            "content_html": "<p class=\"msg msg--highlight \">Esto es una <a href=\"/docs/\">docs</a></p>\n<p>Hola caracola</p>\n<p> </p>\n<p>Esto es una prueba realizada con Publii. vamos a ver las opciones</p>\n<p> </p>\n<p>1. jhola</p>\n<p>2,.- joplña</p>\n\n<p>Hola</p>\n<p> </p>\n<p>dlkañdkas</p>\n<p> </p>\n<p>sala0pplskaç</p>",
             "author": {
                 "name": "ignasi.com"
             },
             "tags": [
             ],
             "date_published": "2025-01-14T16:39:24+01:00",
-            "date_modified": "2025-01-14T19:04:02+01:00"
+            "date_modified": "2025-01-14T19:57:11+01:00"
         }
     ]
 }
